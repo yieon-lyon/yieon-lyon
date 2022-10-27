@@ -1,4 +1,4 @@
-# [이언철 | Fullstack & ServiceOps](https://treasure-event-7c9.notion.site/Fullstack-ServiceOps-eca2c6da8b93461aa9ae777bd9dd9000?v=7df7278169ea4045840dc691003c024a)   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyieon&count_bg=%23AAAAAA&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/yieon-swk) 
+# [이언철 | Core Engineer](https://treasure-event-7c9.notion.site/Fullstack-ServiceOps-eca2c6da8b93461aa9ae777bd9dd9000?v=7df7278169ea4045840dc691003c024a)   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyieon&count_bg=%23AAAAAA&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/yieon-swk) 
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://treasure-event-7c9.notion.site/Fullstack-ServiceOps-eca2c6da8b93461aa9ae777bd9dd9000?v=7df7278169ea4045840dc691003c024a)
 
@@ -79,6 +79,6 @@
 
 ## **Velog**
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yieon)](https://velog.io/@yieon/ServiceOps)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yieon)](https://velog.io/@yieon/%EC%99%9C-ServiceOps%EC%9D%B8%EA%B0%80)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yieon)](https://velog.io/@yieon/%EC%B5%9C%EA%B3%A0%EC%9D%98-ServiceOps-%EA%B8%B0%EB%8A%A5)
+**latest news**
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yieon)](https://velog.io/@yieon)
