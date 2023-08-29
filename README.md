@@ -1,4 +1,4 @@
-# [이언철 | DevOps](https://treasure-event-7c9.notion.site/Fullstack-ServiceOps-eca2c6da8b93461aa9ae777bd9dd9000?v=7df7278169ea4045840dc691003c024a)   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyieon&count_bg=%23AAAAAA&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/yieon-swk) 
+# [이언철 | DevOps](https://treasure-event-7c9.notion.site/Fullstack-ServiceOps-eca2c6da8b93461aa9ae777bd9dd9000?v=7df7278169ea4045840dc691003c024a)   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyieon&count_bg=%23AAAAAA&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/yieon-lyon) 
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://treasure-event-7c9.notion.site/Fullstack-ServiceOps-eca2c6da8b93461aa9ae777bd9dd9000?v=7df7278169ea4045840dc691003c024a)
 <a href="https://velog.io/@yieon" target="_blank"><img src="https://img.shields.io/badge/VELOG-3eb489?style=for-the-badge&logo=V&logoColor=white"/></a>
@@ -78,13 +78,13 @@
 <br/>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yieon-swk&show_icons=true&theme=radical" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yieon-lyon&show_icons=true&theme=radical" align="center" /></div>  
 <br/>   
 
 
 ## My Trophies
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yieon-swk&theme=gruvbox&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yieon-lyon&theme=gruvbox&row=1&column=7"/>
 </div>
 
 ## **Velog**
