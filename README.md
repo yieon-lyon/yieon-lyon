@@ -1,7 +1,13 @@
-# [이언철 | DevOps](https://treasure-event-7c9.notion.site/Fullstack-ServiceOps-eca2c6da8b93461aa9ae777bd9dd9000?v=7df7278169ea4045840dc691003c024a)   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyieon&count_bg=%23AAAAAA&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/yieon-lyon) 
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:232D28,100:232D28&height=200&section=header&text=Hi,%20I'm%20Lyon!&fontSize=45&fontColor=F6F0EB)
+<br/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyieon&count_bg=%23AAAAAA&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/yieon-lyon)
+![Soomgo](https://img.shields.io/badge/Soomgo-DevOps-blue)
 
+<br/>
+
+## My Intro 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://treasure-event-7c9.notion.site/Fullstack-ServiceOps-eca2c6da8b93461aa9ae777bd9dd9000?v=7df7278169ea4045840dc691003c024a)
-<a href="https://velog.io/@yieon" target="_blank"><img src="https://img.shields.io/badge/VELOG-3eb489?style=for-the-badge&logo=V&logoColor=white"/></a>
+<a href="https://velog.io/@yieon" target="_blank"><img src="https://img.shields.io/badge/VELOG-3eb489?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
 
 <br/>
 
@@ -40,6 +46,7 @@
 <img src="https://img.shields.io/badge/argo_workflow-EF7B4D?style=for-the-badge&logo=argo&logoColor=white">
 <img src="https://img.shields.io/badge/helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">
 <img src="https://img.shields.io/badge/kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/karpenter-5C64AB?style=for-the-badge&logo=amazoneks&logoColor=white">
 
 **Front-end**
 
@@ -64,6 +71,7 @@
 <img src="https://img.shields.io/badge/graphQL-E10098?style=for-the-badge&logo=graphQL&logoColor=white">
 <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
 <img src="https://img.shields.io/badge/nexus-231F20?style=for-the-badge&logo=nexus&logoColor=white">
+<img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 
 **Data**
 
@@ -81,6 +89,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yieon-lyon&show_icons=true&theme=radical" align="center" /></div>  
 <br/>   
 
+<div align="center"><img src ="https://github-readme-streak-stats.herokuapp.com/?user=yieon-lyon&theme=radical&hide_border=true&background=FFFFFF00"></div>
 
 ## My Trophies
 <div align="center">
