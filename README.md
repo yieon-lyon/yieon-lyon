@@ -6,7 +6,7 @@
 <br/>
 
 ## My Intro 
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://treasure-event-7c9.notion.site/Fullstack-ServiceOps-eca2c6da8b93461aa9ae777bd9dd9000?v=7df7278169ea4045840dc691003c024a)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://yieon.notion.site/SRE-DevOps-Engineer-eca2c6da8b93461aa9ae777bd9dd9000?pvs=4)
 <a href="https://velog.io/@yieon" target="_blank"><img src="https://img.shields.io/badge/VELOG-3eb489?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
 
 <br/>
