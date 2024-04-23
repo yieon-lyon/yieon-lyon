@@ -6,7 +6,7 @@
 <br/>
 
 ## My Intro 
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://yieon.notion.site/SRE-DevOps-Engineer-eca2c6da8b93461aa9ae777bd9dd9000?pvs=4)
+[![Notion](https://yieon.notion.site/SRE-DevOps-Engineer-cf65b18a94d942f2a50cafcbdabc4960?pvs=4)
 <a href="https://velog.io/@yieon" target="_blank"><img src="https://img.shields.io/badge/VELOG-3eb489?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
 
 <br/>
