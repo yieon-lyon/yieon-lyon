@@ -47,6 +47,17 @@
 <img src="https://img.shields.io/badge/helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">
 <img src="https://img.shields.io/badge/kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/karpenter-5C64AB?style=for-the-badge&logo=amazoneks&logoColor=white">
+<img src="https://img.shields.io/badge/terraform-8040C9?style=for-the-badge&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=white">
+<img src="https://img.shields.io/badge/kong-3FA66A?style=for-the-badge&logo=kong&logoColor=white">
+<img src="https://img.shields.io/badge/github-010409?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/bitbucket-579DFF?style=for-the-badge&logo=bitbucket&logoColor=white">
+<img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
+<img src="https://img.shields.io/badge/grafana-F37B2B?style=for-the-badge&logo=grafana&logoColor=white">
+<img src="https://img.shields.io/badge/mimir-F37B2B?style=for-the-badge&logo=mimir&logoColor=white">
+<img src="https://img.shields.io/badge/loki-F37B2B?style=for-the-badge&logo=loki&logoColor=white">
+<img src="https://img.shields.io/badge/tempo-F37B2B?style=for-the-badge&logo=tempo&logoColor=white">
+<img src="https://img.shields.io/badge/thanos-6D41FF?style=for-the-badge&logo=thanos&logoColor=white">
 
 **Front-end**
 
