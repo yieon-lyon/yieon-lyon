@@ -1,12 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:232D28,100:232D28&height=200&section=header&text=Hi,%20I'm%20Lyon!&fontSize=45&fontColor=F6F0EB)
 <br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyieon&count_bg=%23AAAAAA&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/yieon-lyon)
 ![Soomgo](https://img.shields.io/badge/Soomgo-DevOps-blue)
 
 <br/>
 
 ## My Intro 
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://yieon.notion.site/SRE-DevOps-Engineer-eca2c6da8b93461aa9ae777bd9dd9000?pvs=4)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://yieon.notion.site/SRE-DevOps-Engineer-cf65b18a94d942f2a50cafcbdabc4960)
 <a href="https://velog.io/@yieon" target="_blank"><img src="https://img.shields.io/badge/VELOG-3eb489?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
 
 <br/>
@@ -58,6 +57,9 @@
 <img src="https://img.shields.io/badge/loki-F37B2B?style=for-the-badge&logo=loki&logoColor=white">
 <img src="https://img.shields.io/badge/tempo-F37B2B?style=for-the-badge&logo=tempo&logoColor=white">
 <img src="https://img.shields.io/badge/thanos-6D41FF?style=for-the-badge&logo=thanos&logoColor=white">
+<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white">
+<img src="https://img.shields.io/badge/cilium-6C7993?style=for-the-badge&logo=cilium&logoColor=white">
+<img src="https://img.shields.io/badge/tetragon-6C7993?style=for-the-badge&logo=cilium&logoColor=white">
 
 **Front-end**
 
