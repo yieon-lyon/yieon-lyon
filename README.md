@@ -99,10 +99,12 @@
 <br/>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yieon-lyon&show_icons=true&theme=radical" align="center" /></div>  
-<br/>   
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=yieon-lyon&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=00000000&hide_rank=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=yieon-lyon&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=8">
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=yieon-lyon&theme=radical&hide_border=true&background=FFFFFF00">
+</p>
 
-<div align="center"><img src ="https://github-readme-streak-stats.herokuapp.com/?user=yieon-lyon&theme=radical&hide_border=true&background=FFFFFF00"></div>
 
 ## My Trophies
 <div align="center">
