@@ -7,6 +7,7 @@
 ## My Intro 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://yieon.notion.site/SRE-DevOps-Engineer-cf65b18a94d942f2a50cafcbdabc4960)
 <a href="https://velog.io/@yieon" target="_blank"><img src="https://img.shields.io/badge/VELOG-3eb489?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
+<a href="https://community.grafana.com/u/lyon/summary" target="_blank"><img src="https://img.shields.io/badge/grafana_community-F37B2B?style=for-the-badge&logo=grafana&logoColor=white"/></a>
 
 <br/>
 
