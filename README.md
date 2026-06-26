@@ -1,13 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:232D28,100:232D28&height=200&section=header&text=Hi,%20I'm%20Lyon!&fontSize=45&fontColor=F6F0EB)
 <br/>
 ![Soomgo](https://img.shields.io/badge/Soomgo-DevOps-blue)
-
+<br/>
+<a href="https://www.credly.com/badges/c7210ba7-cf3e-4446-9426-0f0781bbad4e/public_url"><img src="https://images.credly.com/size/340x340/images/fb33a1a5-e76d-4c2d-9063-b6ca1c869de6/blob" width="120"/></a>
 <br/>
 
 ## My Intro 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://yieon.notion.site/SRE-DevOps-Engineer-cf65b18a94d942f2a50cafcbdabc4960)
 <a href="https://velog.io/@yieon" target="_blank"><img src="https://img.shields.io/badge/VELOG-3eb489?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
 <a href="https://community.grafana.com/u/lyon/summary" target="_blank"><img src="https://img.shields.io/badge/grafana_community-F37B2B?style=for-the-badge&logo=grafana&logoColor=white"/></a>
+
+
 
 <br/>
 
