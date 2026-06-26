@@ -112,7 +112,8 @@
 
 ## My Trophies
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yieon-lyon&theme=gruvbox&row=1&column=7"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=yieon-lyon&theme=gruvbox&row=1&column=7"/> -->
+<img src='https://hacked-github-stat-trophies.vercel.app/?username=yieon-lyon&theme=dracula&column=11'>
 </div>
 
 ## **Velog**
